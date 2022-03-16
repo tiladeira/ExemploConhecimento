@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Valid.PesquisaBiometrica.Application/1.0.0": {
+        "runtime": {
+          "Valid.PesquisaBiometrica.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Valid.PesquisaBiometrica.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

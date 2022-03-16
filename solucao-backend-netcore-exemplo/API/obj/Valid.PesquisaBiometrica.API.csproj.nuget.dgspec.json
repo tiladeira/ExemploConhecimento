@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\API\\Valid.PesquisaBiometrica.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\API\\Valid.PesquisaBiometrica.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\API\\Valid.PesquisaBiometrica.API.csproj",
+        "projectName": "Valid.PesquisaBiometrica.API",
+        "projectPath": "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\API\\Valid.PesquisaBiometrica.API.csproj",
+        "packagesPath": "C:\\Users\\tilad\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tilad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\Application\\Valid.PesquisaBiometrica.Application.csproj": {
+                "projectPath": "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\Application\\Valid.PesquisaBiometrica.Application.csproj"
+              },
+              "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\Domain\\Valid.PesquisaBiometrica.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\Domain\\Valid.PesquisaBiometrica.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.14, 5.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\Application\\Valid.PesquisaBiometrica.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\Application\\Valid.PesquisaBiometrica.Application.csproj",
+        "projectName": "Valid.PesquisaBiometrica.Application",
+        "projectPath": "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\Application\\Valid.PesquisaBiometrica.Application.csproj",
+        "packagesPath": "C:\\Users\\tilad\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tilad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\Domain\\Valid.PesquisaBiometrica.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\Domain\\Valid.PesquisaBiometrica.Domain.csproj",
+        "projectName": "Valid.PesquisaBiometrica.Domain",
+        "projectPath": "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\Domain\\Valid.PesquisaBiometrica.Domain.csproj",
+        "packagesPath": "C:\\Users\\tilad\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tilad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

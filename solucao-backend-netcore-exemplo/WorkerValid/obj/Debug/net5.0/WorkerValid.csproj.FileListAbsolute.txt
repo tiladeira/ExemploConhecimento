@@ -1,0 +1,16 @@
+C:\Projetos\Valid\Valid.PRODCMP\WorkerValid\bin\Debug\net5.0\WorkerValid.exe
+C:\Projetos\Valid\Valid.PRODCMP\WorkerValid\bin\Debug\net5.0\WorkerValid.deps.json
+C:\Projetos\Valid\Valid.PRODCMP\WorkerValid\bin\Debug\net5.0\WorkerValid.runtimeconfig.json
+C:\Projetos\Valid\Valid.PRODCMP\WorkerValid\bin\Debug\net5.0\WorkerValid.runtimeconfig.dev.json
+C:\Projetos\Valid\Valid.PRODCMP\WorkerValid\bin\Debug\net5.0\WorkerValid.dll
+C:\Projetos\Valid\Valid.PRODCMP\WorkerValid\bin\Debug\net5.0\ref\WorkerValid.dll
+C:\Projetos\Valid\Valid.PRODCMP\WorkerValid\bin\Debug\net5.0\WorkerValid.pdb
+C:\Projetos\Valid\Valid.PRODCMP\WorkerValid\obj\Debug\net5.0\WorkerValid.csproj.AssemblyReference.cache
+C:\Projetos\Valid\Valid.PRODCMP\WorkerValid\obj\Debug\net5.0\WorkerValid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Valid\Valid.PRODCMP\WorkerValid\obj\Debug\net5.0\WorkerValid.AssemblyInfoInputs.cache
+C:\Projetos\Valid\Valid.PRODCMP\WorkerValid\obj\Debug\net5.0\WorkerValid.AssemblyInfo.cs
+C:\Projetos\Valid\Valid.PRODCMP\WorkerValid\obj\Debug\net5.0\WorkerValid.csproj.CoreCompileInputs.cache
+C:\Projetos\Valid\Valid.PRODCMP\WorkerValid\obj\Debug\net5.0\WorkerValid.dll
+C:\Projetos\Valid\Valid.PRODCMP\WorkerValid\obj\Debug\net5.0\ref\WorkerValid.dll
+C:\Projetos\Valid\Valid.PRODCMP\WorkerValid\obj\Debug\net5.0\WorkerValid.pdb
+C:\Projetos\Valid\Valid.PRODCMP\WorkerValid\obj\Debug\net5.0\WorkerValid.genruntimeconfig.cache

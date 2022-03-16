@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70f136e8-2355-48c9-becf-4f4280cf225f": {
+      "ProjectGuid": "70f136e8-2355-48c9-becf-4f4280cf225f",
+      "DisplayName": "Valid.PesquisaBiometrica.API",
+      "ColorIndex": 0
+    },
+    "a1163d5f-772c-447f-8d32-b1cdac140f4a": {
+      "ProjectGuid": "a1163d5f-772c-447f-8d32-b1cdac140f4a",
+      "DisplayName": "Valid.PesquisaBiometrica.Application",
+      "ColorIndex": 1
+    },
+    "6199c4b4-fe24-4f02-a75d-12478082c93e": {
+      "ProjectGuid": "6199c4b4-fe24-4f02-a75d-12478082c93e",
+      "DisplayName": "Valid.PesquisaBiometrica.Domain",
+      "ColorIndex": 2
+    },
+    "4cb38852-b3fe-4002-8911-e532685014a6": {
+      "ProjectGuid": "4cb38852-b3fe-4002-8911-e532685014a6",
+      "DisplayName": "Valid.PesquisaBiometrica.InfraData",
+      "ColorIndex": 3
+    },
+    "830ea49b-1e2c-4905-bc58-5c67ffca8e81": {
+      "ProjectGuid": "830ea49b-1e2c-4905-bc58-5c67ffca8e81",
+      "DisplayName": "Valid.PesquisaBiometrica.InfraCrossCutting",
+      "ColorIndex": 4
+    },
+    "401b8135-cc39-41b3-96b8-c334b7ec8b2b": {
+      "ProjectGuid": "401b8135-cc39-41b3-96b8-c334b7ec8b2b",
+      "DisplayName": "Valid.PesquisaBiometrica.Test",
+      "ColorIndex": 5
+    },
+    "12256746-f9cf-4005-bb75-489927564bc4": {
+      "ProjectGuid": "12256746-f9cf-4005-bb75-489927564bc4",
+      "DisplayName": "Valid.PesquisaBiometrica.WorkerValid",
+      "ColorIndex": 6
+    },
+    "8a3b43df-a580-40dc-aa8e-1e587a3a0d21": {
+      "ProjectGuid": "8a3b43df-a580-40dc-aa8e-1e587a3a0d21",
+      "DisplayName": "Valid.PesquisaBiometrica.API.Integration",
+      "ColorIndex": 7
+    },
+    "bb0a684a-dee4-41bc-83af-fad7f6e41852": {
+      "ProjectGuid": "bb0a684a-dee4-41bc-83af-fad7f6e41852",
+      "DisplayName": "Valid.PesquisaBiometrica.InfraExternal",
+      "ColorIndex": 8
+    },
+    "ab892069-dcca-4714-a528-a8e20da60b8b": {
+      "ProjectGuid": "ab892069-dcca-4714-a528-a8e20da60b8b",
+      "DisplayName": "Valid.PesquisaBiometrica.Test.Integration",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

@@ -1,0 +1,12 @@
+C:\Projetos\Valid\Valid.PRODCMP\InfraExternal\bin\Debug\net5.0\InfraExternal.deps.json
+C:\Projetos\Valid\Valid.PRODCMP\InfraExternal\bin\Debug\net5.0\InfraExternal.dll
+C:\Projetos\Valid\Valid.PRODCMP\InfraExternal\bin\Debug\net5.0\ref\InfraExternal.dll
+C:\Projetos\Valid\Valid.PRODCMP\InfraExternal\bin\Debug\net5.0\InfraExternal.pdb
+C:\Projetos\Valid\Valid.PRODCMP\InfraExternal\obj\Debug\net5.0\InfraExternal.csproj.AssemblyReference.cache
+C:\Projetos\Valid\Valid.PRODCMP\InfraExternal\obj\Debug\net5.0\InfraExternal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Valid\Valid.PRODCMP\InfraExternal\obj\Debug\net5.0\InfraExternal.AssemblyInfoInputs.cache
+C:\Projetos\Valid\Valid.PRODCMP\InfraExternal\obj\Debug\net5.0\InfraExternal.AssemblyInfo.cs
+C:\Projetos\Valid\Valid.PRODCMP\InfraExternal\obj\Debug\net5.0\InfraExternal.csproj.CoreCompileInputs.cache
+C:\Projetos\Valid\Valid.PRODCMP\InfraExternal\obj\Debug\net5.0\InfraExternal.dll
+C:\Projetos\Valid\Valid.PRODCMP\InfraExternal\obj\Debug\net5.0\ref\InfraExternal.dll
+C:\Projetos\Valid\Valid.PRODCMP\InfraExternal\obj\Debug\net5.0\InfraExternal.pdb

@@ -1,0 +1,17 @@
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\obj\Debug\net5.0\InfraCrossCutting.csproj.AssemblyReference.cache
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\obj\Debug\net5.0\InfraCrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\obj\Debug\net5.0\InfraCrossCutting.AssemblyInfoInputs.cache
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\obj\Debug\net5.0\InfraCrossCutting.AssemblyInfo.cs
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\obj\Debug\net5.0\InfraCrossCutting.csproj.CoreCompileInputs.cache
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\bin\Debug\net5.0\InfraCrossCutting.deps.json
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\bin\Debug\net5.0\InfraCrossCutting.dll
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\bin\Debug\net5.0\ref\InfraCrossCutting.dll
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\bin\Debug\net5.0\InfraCrossCutting.pdb
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\bin\Debug\net5.0\Application.dll
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\bin\Debug\net5.0\Domain.dll
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\bin\Debug\net5.0\Application.pdb
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\bin\Debug\net5.0\Domain.pdb
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\obj\Debug\net5.0\InfraCrossCutting.csproj.CopyComplete
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\obj\Debug\net5.0\InfraCrossCutting.dll
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\obj\Debug\net5.0\ref\InfraCrossCutting.dll
+C:\Projetos\Valid\Valid.PRODCMP\InfraCrossCutting\obj\Debug\net5.0\InfraCrossCutting.pdb

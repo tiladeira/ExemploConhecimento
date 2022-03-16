@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IW/lutgoXzt1UCupOojMThn6RuKHOoY5orLbLaxMpSimLI+Q4bbWKHFPwKtoLVVHd0pU1L1GtQ3ISoZf6JsfPw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Valid\\Valid.PesquisaBiometrica\\solucao-backend-netcore-exemplo\\WorkerValid\\WorkerValid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tilad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
